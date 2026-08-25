@@ -58,12 +58,12 @@ h2 {
   font-weight: 900;
   letter-spacing: -0.04em;
   text-transform: uppercase;
-  color: #000;
+  color: #ffedb2;
 }
 
 .content > p {
   margin: 0;
-  color: #999;
+  color: #9beff5;
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.15em;
@@ -80,7 +80,7 @@ h2 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.2em;
-  color: #054d3d;
+  color: #abffed;
 }
 
 #interests ul {
@@ -98,7 +98,7 @@ h2 {
   font-weight: 600;
   padding: 10px 20px;
   background: #fff;
-  border: 1px solid #ddd;
+  border: 1px solid #edf5a9;
   border-radius: 100px;
   transition:
     background 0.25s ease,
@@ -110,7 +110,7 @@ h2 {
 #interests li:hover {
   background: #000;
   color: #043f2b;
-  border-color: #000;
+  border-color: #f3edb8;
   transform: translateY(-2px);
 }
 .sidebar-img {
@@ -121,7 +121,7 @@ h2 {
   display: block;
   border-radius: 16px;
   filter: grayscale(100%);
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 8px 30px rgba(236, 229, 190, 0.12);
   transition:
     filter 0.4s ease,
     transform 0.4s ease,
@@ -150,7 +150,7 @@ nav h1 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.2em;
-  color: #000;
+  color: #fdf2c0;
 }
 
 #nav-ul {
