@@ -6,7 +6,7 @@ body {
   margin: 0;
   background: #bff8f4;
   color: #222;
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif,
 }
 
 #all-contents {
@@ -106,7 +106,7 @@ h2 {
   display: block;
   border-radius: 16px;
   filter: grayscale(100%);
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 8px 30px rgba(236, 222, 157, 0.12);
   transition:
     filter 0.4s ease,
     transform 0.4s ease,
@@ -116,22 +116,16 @@ h2 {
 .sidebar-img:hover {
   filter: grayscale(0%);
   transform: translateY(-4px);
-  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.18);
+  box-shadow: 0 16px 40px rgb(240, 229, 160);
 }
 
-
-}
-}
-
-
-}
 nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 48px;
   padding: 16px 24px;
-  background: #c00808;
+  background: #eaebb9;
   border: 1px solid #e0e0e0;
   border-radius: 12px;
 }
