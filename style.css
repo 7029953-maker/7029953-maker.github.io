@@ -41,7 +41,7 @@ h2 {
   font-weight: 900;
   letter-spacing: -0.04em;
   text-transform: uppercase;
-  color: #fceebd;
+  color: #e1fcb5;
 }
 
 .content > p {
@@ -125,7 +125,7 @@ nav {
   align-items: center;
   margin-bottom: 48px;
   padding: 16px 24px;
-  background: #eaebb9;
+  background: #effab1;
   border: 1px solid #e0e0e0;
   border-radius: 12px;
 }
@@ -160,12 +160,12 @@ nav h1 {
 }
 
 .nav-li a:hover {
-  background: #e9eea4;
-  color: #fff;
+  background: #07836e;
+  color: #eff7ab;
 }
 /* Portfolio styles */
 .content h1 {
-  color: black;
+  color: rgb(3, 73, 78);
 }
 
 #portfolio {
@@ -188,19 +188,19 @@ nav h1 {
   justify-content: space-between;
   align-items: center;
   text-decoration: none;
-  color: #444;
+  color: #055858;
   padding: 16px 20px;
   font-size: 1.1rem;
   font-weight: 500;
-  background: #fff;
-  border: 1px solid #e0e0e0;
+  background: #eee7a8;
+  border: 1px solid #f0e7b7;
   border-radius: 12px;
   transition: background 0.25s ease, color 0.25s ease, transform 0.25s ease;
 }
 
 #portfolio a:hover {
-  background: #000;
-  color: #fff;
+  background: #055e56;
+  color: #dee9a0;
   transform: translateX(4px);
 }
 
